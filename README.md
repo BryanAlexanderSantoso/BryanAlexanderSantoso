@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+ <center>![Header](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)</center>
 
 <h1 align="center">Hello there 👋, I'm Bryan ✨</h1>
 
