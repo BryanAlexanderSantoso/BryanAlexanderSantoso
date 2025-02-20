@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Bryan ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14183f84-61a4-40e5-a50d-6b5d1e19b085" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/14183f84-61a4-40e5-a50d-6b5d1e19b085" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 <h2 align="center">🚀 About Me</h2>
@@ -21,9 +21,9 @@ interest: Networking, Web & Mobile Development
 
 ---
 
-## 🏗️ My Projects
+## 🏠 My Projects
 - 🚀 **Portfolio Website** - A showcase of my works & skills. [GitHub Repository](#)
-- 🛒 **E-Commerce App** - A full-fledged e-commerce app built with Flutter. [GitHub Repository](#)
+- 🛂 **E-Commerce App** - A full-fledged e-commerce app built with Flutter. [GitHub Repository](#)
 
 ---
 
@@ -36,9 +36,9 @@ interest: Networking, Web & Mobile Development
 
 ---
 
-## 🎧 Fun Facts About Me
+## 🎶 Fun Facts About Me
 - 🎥 Sometimes I Like Watching Anime
-- 🎌 Learning Japanese Is Fun!
+- 🌐 Learning Japanese Is Fun!
 - 🎮 I Love Playing Games
 
 ---
@@ -62,7 +62,7 @@ interest: Networking, Web & Mobile Development
 
 ---
 
-## 🎶 My Favorite Tracks
+## 🎵 My Favorite Tracks
 ![Music](https://github.com/user-attachments/assets/f563bb62-cac3-4096-bbd2-3f3c1fecea85)
 
 ---
