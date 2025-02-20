@@ -2,7 +2,7 @@
 
 # Hello there 👋 I'm Bryan ✨
 
-**Bryan Alexander Santoso**, 17 years old and I am a **Mobile, Web Developer & UI/UX Designer at PCode International Singapore**<br>
+**Bryan Alexander Santoso**, 19 years old and I am a **Mobile, Web Developer & UI/UX Designer at PCode International Singapore**<br>
 I'm currently studying at a Vocational High School, focusing on Website Development.
 I love making websites and learning about networking.
 
