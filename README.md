@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Bryan ✨</h1>
 
 <p align="center">
- https://github.com/user-attachments/assets/14183f84-61a4-40e5-a50d-6b5d1e19b085
+ <img src="https://github.com/user-attachments/assets/14183f84-61a4-40e5-a50d-6b5d1e19b085">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
