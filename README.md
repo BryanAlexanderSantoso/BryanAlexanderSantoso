@@ -13,7 +13,7 @@ name: Bryan Alexander Santoso
 age: 19
 role: Mobile & Web Developer | UI/UX Designer
 company: PCode International Singapore
-education: Binus University - Informatics Engineering
+education: Binus University - Computers Science
 interest: Networking, Web & Mobile Development
 ```
 
