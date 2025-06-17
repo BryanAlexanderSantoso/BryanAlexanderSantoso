@@ -9,11 +9,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 ```yaml
-name: Bryan Alexander Santoso
-age: 19
+name: Bryan Alexander Santoso Surya Atmadja
+age: 20
 role: Mobile & Web Developer | UI/UX Designer
-company: PCode International Singapore
-education: Binus University - Computers Science
+education: Technology University of Bandung
 interest: Networking, Web & Mobile Development
 ```
 
@@ -80,7 +79,7 @@ interest: Networking, Web & Mobile Development
 ---
 
 ## ✉️ Reach Me
-- 📧 Email: [pilarmuhammad215@gmail.com](mailto:pilarmuhammad215@gmail.com)
+- 📧 Email: [bryansantoso@icloud.com](mailto:pilarmuhammad215@gmail.com)
 
 ---
 
