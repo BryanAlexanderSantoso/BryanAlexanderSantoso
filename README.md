@@ -12,7 +12,7 @@
 name: Bryan Alexander Santoso Surya Atmadja
 age: 20
 role: Mobile & Web Developer | UI/UX Designer
-education: Technology University of Bandung
+education: Industrial Engineering | Technology University of Bandung
 interest: Networking, Web & Mobile Development
 ```
 
