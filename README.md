@@ -9,8 +9,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 ```yaml
-name: Bryan Alexander Santoso Surya Atmadja
-age: 20
+name: Bryan Santoso Surya Atmadja
 role: Mobile & Web Developer | UI/UX Designer
 education: Industrial Engineering | Technology University of Bandung
 interest: Networking, Web & Mobile Development
