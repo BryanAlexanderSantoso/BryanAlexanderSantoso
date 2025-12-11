@@ -10,7 +10,7 @@
 
 ```yaml
 name: Bryan Santoso Surya Atmadja
-role: Mobile & Web Developer | UI/UX Designer
+role: CO-O At CV. Yada Ekidanta
 education: Industrial Engineering | Technology University of Bandung
 interest: Networking, Web & Mobile Development
 ```
