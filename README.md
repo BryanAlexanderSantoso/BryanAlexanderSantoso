@@ -9,7 +9,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 ```yaml
-name: Bryan Santoso Surya Atmadja
+name: Muhammad Pilar Abu Dzar Al Ghifari
 role: CO-O At CV. Yada Ekidanta
 education: Industrial Engineering | Technology University of Bandung
 interest: Networking, Web & Mobile Development
