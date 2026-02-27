@@ -1,6 +1,6 @@
  ![Header](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-<h1 align="center">Hello there 👋, I'm Pilar ✨</h1>
+<h1 align="center">Hello there 👋, I'm Bryan ✨</h1>
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/14183f84-61a4-40e5-a50d-6b5d1e19b085">
@@ -9,8 +9,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 ```yaml
-name: Muhammad Pilar Abu Dzar Al Ghifari
-role: CO-O At CV. Yada Ekidanta
+name: Bryan Santoso Surya Atmadja
+role: Fullstack Deveeloper & Android Deveeloper
 education: Industrial Engineering | Technology University of Bandung
 interest: Networking, Web & Mobile Development
 ```
