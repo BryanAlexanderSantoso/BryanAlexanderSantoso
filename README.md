@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-A dedicated **Industrial Engineering** student at **Universitas Teknologi Bandung** with a deep passion for **Machine Learning** and **Fullstack Development**. I bridge the gap between industrial efficiency and modern technology through code.
+A dedicated **Industrial Engineering** student at **Institut Teknologi Bandung** with a deep passion for **Machine Learning** and **Fullstack Development**. I bridge the gap between industrial efficiency and modern technology through code.
 
 - 🛠️ Founder of **Kaze Media** (Web Development Services in Bandung).
 - 🧠 Currently diving deep into **Computer Vision** and **Neural Networks**.
